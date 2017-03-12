@@ -1,0 +1,8 @@
+{
+  "perspective_id": "Int",
+  "user_id": "Int",
+  "name": "String",
+  "defined_query": "String",
+  "refined_query": "String",
+  "ordering": "List(Int)"
+}

@@ -1,0 +1,8 @@
+{
+  "item": "Item",
+  "attachment": "Optional(Base64)",
+  "attachment_name": "Optional(String)",
+  "attachment_mime_types": "Optional(List(String))",
+  "attachment_provider_id": "Optional(Int)",
+  "hints": "Optional(String)"
+}

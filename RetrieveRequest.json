@@ -1,0 +1,5 @@
+{
+  "query": "String",
+  "limit": "Optional(Int)",
+  "offset": "Optional(Int)"
+}

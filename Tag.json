@@ -1,0 +1,7 @@
+{
+  "tag_id": "Optional(Int)",
+  "user_id": "Optional(Int)",
+  "item_id": "Optional(Int)",
+  "name": "Optional(String)",
+  "value": "Optional(String)"
+}
