@@ -1,4 +1,4 @@
 {
-  "session_hash": "String",
-  "user_id": "Int"
+  "token": "String",
+  "user": "User"
 }

@@ -1,5 +1,7 @@
 {
   "user_id": "Optional(Int)",
-  "name": "String",
-  "pass": "String"
+  "username": "String",
+  "password": "String",
+  "databaseConnectionString": "String",
+  "filesystemConnectionString": "String"
 }
