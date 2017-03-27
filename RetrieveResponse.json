@@ -1,4 +1,4 @@
 {
-  "items": "List(RichItem)",
+  "items": "List(Item)",
   "total": "Int"
 }

@@ -1,0 +1,13 @@
+{
+  "meta_hash": "Optional(String)",
+  "user_hash": "Optional(String)",
+  "meta_type": "Optional(String)",
+  "icon": "Optional(String)",
+  "name": "Optional(String)",
+  "text": "Optional(String)",
+  "author": "Optional(String)",
+  "source_title": "Optional(String)",
+  "source_url": "Optional(String)",
+  "created_at": "Optional(String)",
+  "modified_at": "Optional(String)"
+}

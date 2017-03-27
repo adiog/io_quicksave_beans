@@ -1,5 +1,5 @@
 {
-  "user_id": "Optional(Int)",
+  "user_hash": "Optional(String)",
   "username": "String",
   "password": "String",
   "databaseConnectionString": "String",

@@ -1,7 +1,7 @@
 {
-  "tag_id": "Optional(Int)",
-  "user_id": "Optional(Int)",
-  "item_id": "Optional(Int)",
+  "tag_hash": "Optional(String)",
+  "user_hash": "Optional(String)",
+  "meta_hash": "Optional(String)",
   "name": "Optional(String)",
   "value": "Optional(String)"
 }

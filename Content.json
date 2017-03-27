@@ -1,9 +1,0 @@
-{
-  "storage_id": "Optional(Int)",
-  "provider_id": "Optional(Int)",
-  "user_id": "Optional(Int)",
-  "item_id": "Optional(Int)",
-  "mime_types": "Optional(List(String))",
-  "storage_url": "Optional(String)",
-  "name": "Optional(String)"
-}

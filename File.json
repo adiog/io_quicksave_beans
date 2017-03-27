@@ -1,0 +1,6 @@
+{
+  "file_hash": "Optional(String)",
+  "meta_hash": "String",
+  "filename": "String",
+  "mimetype": "String"
+}

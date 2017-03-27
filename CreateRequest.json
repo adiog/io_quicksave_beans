@@ -1,5 +1,5 @@
 {
-  "item": "Item",
+  "meta": "Meta",
   "attachment": "Optional(Base64)",
   "attachment_name": "Optional(String)",
   "attachment_mime_types": "Optional(List(String))",

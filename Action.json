@@ -1,0 +1,6 @@
+{
+  "action_hash": "Optional(String)",
+  "meta_hash": "String",
+  "name": "String",
+  "kwargs": "SerializedDict"
+}

@@ -1,12 +1,6 @@
 {
-  "item_id": "Optional(Int)",
-  "user_id": "Optional(Int)",
-  "item_type": "Optional(String)",
-  "title": "Optional(String)",
-  "url": "Optional(String)",
-  "freetext": "Optional(String)",
-  "author": "Optional(String)",
-  "source_title": "Optional(String)",
-  "source_url": "Optional(String)",
-  "timestamp": "Optional(String)"
+  "meta": "Meta",
+  "tags": "List(Tag)",
+  "files": "List(File)",
+  "actions": "List(Action)"
 }
