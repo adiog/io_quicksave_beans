@@ -3,5 +3,5 @@
   "username": "String",
   "password": "String",
   "databaseConnectionString": "String",
-  "filesystemConnectionString": "String"
+  "storageConnectionString": "String"
 }

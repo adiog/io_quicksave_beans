@@ -1,4 +1,5 @@
 {
+  "databaseConnectionString": "String",
   "type": "String",
   "beanname": "String",
   "beanjson": "SerializedDict"

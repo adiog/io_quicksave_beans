@@ -1,0 +1,6 @@
+{
+  "createRequest": "CreateRequest",
+  "keys": "List(Key)",
+  "databaseConnectionString": "String",
+  "storageConnectionString": "String"
+}

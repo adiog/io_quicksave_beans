@@ -1,0 +1,6 @@
+{
+  "key_hash": "Optional(String)",
+  "user_hash": "String",
+  "name": "String",
+  "value": "String"
+}

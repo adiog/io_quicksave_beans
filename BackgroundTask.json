@@ -1,5 +1,5 @@
 {
   "name": "String",
-  "meta": "Meta",
+  "internalCreateRequest": "InternalCreateRequest",
   "kwargs": "SerializedDict"
 }
