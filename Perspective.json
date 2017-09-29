@@ -1,0 +1,8 @@
+{
+  "perspective_hash": "Optional(String)",
+  "user_hash": "Optional(String)",
+  "name": "String",
+  "defined_query": "String",
+  "refined_query": "Optional(String)",
+  "ordering": "Optional(String)"
+}

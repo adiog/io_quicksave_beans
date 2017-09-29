@@ -1,0 +1,4 @@
+{
+  "perspective": "Perspective",
+  "ordering": "Optional(List(String))"
+}
