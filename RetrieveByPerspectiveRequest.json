@@ -1,0 +1,5 @@
+{
+  "perspective_hash": "String",
+  "limit": "Optional(Int)",
+  "offset": "Optional(Int)"
+}

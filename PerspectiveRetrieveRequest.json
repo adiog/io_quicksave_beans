@@ -1,3 +1,4 @@
 {
-  "perspective_hash": "String"
+  "variant": "String",
+  "perspective_hash": "Optional(List(String))"
 }
